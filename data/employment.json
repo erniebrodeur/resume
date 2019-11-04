@@ -1,0 +1,76 @@
+[
+  {
+    "company_name": "Comcast Technology Solutions (formally thePlatform)",
+    "title": "Software Developer (bespoked solutions)",
+    "start_date": "Jan 2017",
+    "end_date": "August 2019",
+    "location": "Seattle, WA (fulltime remote)",
+    "bullet_points": [
+      "Developed software to allow for automated deployments, while reducing time spent by a factor of one hundred.",
+      "Designed solutions to generalized problems, such as backing data up via git, and moving data between different accounts.",
+      "Acted as technical and operations lead.",
+      "Wrote and maintained a Ruby SDK that was capable of accessing all 60 of our services.",
+      "Wrote and maintained Account Continuous Integration which allowed for our customer catalogs to be built into a CI pipeline.",
+      "Trained the team on the usage of docker, git, ruby, teamcity, devops theory, and CI/CD principals. See less",
+      "Developed software to allow for automated deployments, while reducing time spent by a factor of one hundred.",
+      "Designed solutions to generalized problems, such as backing data up via git, and moving data between different accounts.",
+      "Acted as technical and operations lead.",
+      "Wrote and maintained a Ruby SDK that was capable of accessing all 60 of our services.",
+      "Wrote and maintained Account Continuous Integration which allowed for our customer catalogs to be built into a CI pipeline.",
+      "Trained the team on the usage of docker, git, ruby, teamcity, devops theory, and CI/CD principals. See less"
+    ]
+  },
+  {
+    "company_name": "Comcast Technology Solutions (formally thePlatform)",
+    "title": "Technical Support Lead",
+    "start_date": "Sept 2015",
+    "end_date": "Jan 2017",
+    "location": "Seattle, WA",
+    "bullet_points": [
+      [
+        "Lead a small team of dedicated application engineers through tickets and day to day operations for a single large company.",
+        "Established procedure on new and existing daily process.",
+        "Developed several design architectures for monitoring,",
+        "Provided escalation support for tier one employees.",
+        "Designed a ruby SDK for interacting with our products in a universal manner.",
+        "Batch repaired millions of records for hot fixes and production issues.",
+        "Designed several tools for bulk processing of customer assets. See less"
+      ]
+    ]
+  },
+  {
+    "company_name": "thePlatform for Media Inc",
+    "title": "Application Support IV",
+    "start_date": "Jun 2014",
+    "end_date": "Sep 2015",
+    "location": "Seattle, WA",
+    "bullet_points": [
+      "Maintain day to day operations on the general support team.",
+      "Assist others with completion of their work.",
+      "Mentor and tutor as needed."
+    ]
+  },
+  {
+    "company_name": "thePlatform for Media Inc",
+    "title": "Sr Support",
+    "start_date": "May 2013",
+    "end_date": "Jun 2014",
+    "location": "Seattle, WA",
+    "bullet_points": [
+      "Provided tier one escalation and support.",
+      "Participated in the on-call rotation."
+    ]
+  },
+  {
+    "company_name": "thePlatform for Media Inc",
+    "title": "Sr Application Support",
+    "start_date": "May 2011",
+    "end_date": "May 2013",
+    "location": "Seattle, WA",
+    "bullet_points": [
+      "Maintained operational state of our hosts.",
+      "First tier support for incoming customer issues.",
+      "Participated in break fix work in production."
+    ]
+  }
+]
