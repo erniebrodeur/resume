@@ -27,15 +27,13 @@
     "end_date": "Jan 2017",
     "location": "Seattle, WA",
     "bullet_points": [
-      [
-        "Lead a small team of dedicated application engineers through tickets and day to day operations for a single large company.",
-        "Established procedure on new and existing daily process.",
-        "Developed several design architectures for monitoring,",
-        "Provided escalation support for tier one employees.",
-        "Designed a ruby SDK for interacting with our products in a universal manner.",
-        "Batch repaired millions of records for hot fixes and production issues.",
-        "Designed several tools for bulk processing of customer assets. See less"
-      ]
+      "Lead a small team of dedicated application engineers through tickets and day to day operations for a single large company.",
+      "Established procedure on new and existing daily process.",
+      "Developed several design architectures for monitoring,",
+      "Provided escalation support for tier one employees.",
+      "Designed a ruby SDK for interacting with our products in a universal manner.",
+      "Batch repaired millions of records for hot fixes and production issues.",
+      "Designed several tools for bulk processing of customer assets. See less"
     ]
   },
   {

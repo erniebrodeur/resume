@@ -1,3 +1,22 @@
-<% Employment.collection.each do |job| %>
-  <%= erb :"_partials/employment", locals: job %>
-<% end %>
+<div class="container" id="me">
+<p>Ernie Brodeur</p>
+<p>ebrodeur@ujami.net</p>
+  <div class="container" id="links">
+    <% Links.collection.each do |link| %>
+      <%= erb :"_partials/links", locals: link %>
+    <% end %>
+  </div>
+</div>
+
+
+<div class="container" id="employment">
+  <% Employment.collection.each do |job| %>
+    <%= erb :"_partials/employment", locals: job %>
+  <% end %>
+</div>
+
+<div class="container" id="Projects">
+</div>
+
+<div class="container" id="Education">
+</div>

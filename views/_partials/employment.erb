@@ -1,1 +1,12 @@
-<h3> <%= title %> </h3>
+<div class="resume-item d-flex flex-column flex-md-row justify-content-between mb-5">
+    <div class="resume-content">
+    <h2 class="mb-0"><%= title %></h2> 
+    <div class="subheading mb-3"><%= company_name %></div>
+    <ul>
+    <% bullet_points.each do |bp| %>
+    <li><%= bp %></li>
+    <% end%>
+    </ul>
+    </div>
+    <div class="resume-date text-md-right"><span class="text-primary"><%= start_date %> - <%= end_date %></span></div>
+</div>
