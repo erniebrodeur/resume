@@ -1,9 +1,9 @@
-<div class="container" id="me">
-<p>Ernie Brodeur</p>
-<p>ebrodeur@ujami.net</p>
+<div class="container" id="about">
+<div id="name"><p>Ernie Brodeur</p></div>
+<div id="email"><p>ebrodeur@ujami.net</p></div>
   <div class="container" id="links">
     <% Links.collection.each do |link| %>
-      <%= erb :"_partials/links", locals: link %>
+      <%= erb :"_partials/link", locals: link %> 
     <% end %>
   </div>
 </div>
@@ -15,8 +15,12 @@
   <% end %>
 </div>
 
-<div class="container" id="Projects">
-</div>
-
 <div class="container" id="Education">
+  <div class="resume-item d-flex flex-column flex-md-row justify-content-between mb-5">
+      <div class="resume-content">
+          <h2 class="mb-0">Lake Washington Technical College</h2> 
+          <div class="subheading mb-3">Associates of Science in Computer Security and Forensics</div>
+      </div>
+      <div class="resume-date text-md-right"><span class="text-primary">2007 - 2009</span></div>
+  </div>
 </div>

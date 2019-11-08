@@ -7,9 +7,11 @@ require 'creatable'
 require_relative 'lib/bullet_point.rb'
 require_relative 'lib/employment.rb'
 require_relative 'lib/links.rb'
+require_relative 'lib/projects.rb'
 
 Employment.initialize
 Links.initialize
+Projects.initialize
 
 get '/' do
   erb :index, layout: :main_layout

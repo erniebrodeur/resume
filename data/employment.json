@@ -11,13 +11,12 @@
       "Acted as technical and operations lead.",
       "Wrote and maintained a Ruby SDK that was capable of accessing all 60 of our services.",
       "Wrote and maintained Account Continuous Integration which allowed for our customer catalogs to be built into a CI pipeline.",
-      "Trained the team on the usage of docker, git, ruby, teamcity, devops theory, and CI/CD principals. See less",
       "Developed software to allow for automated deployments, while reducing time spent by a factor of one hundred.",
       "Designed solutions to generalized problems, such as backing data up via git, and moving data between different accounts.",
       "Acted as technical and operations lead.",
       "Wrote and maintained a Ruby SDK that was capable of accessing all 60 of our services.",
       "Wrote and maintained Account Continuous Integration which allowed for our customer catalogs to be built into a CI pipeline.",
-      "Trained the team on the usage of docker, git, ruby, teamcity, devops theory, and CI/CD principals. See less"
+      "Trained the team on the usage of docker, git, ruby, teamcity, devops theory, and CI/CD principals."
     ]
   },
   {
@@ -29,11 +28,11 @@
     "bullet_points": [
       "Lead a small team of dedicated application engineers through tickets and day to day operations for a single large company.",
       "Established procedure on new and existing daily process.",
-      "Developed several design architectures for monitoring,",
+      "Developed several design architectures that allowed other employee's to build monitors and alerts.",
       "Provided escalation support for tier one employees.",
       "Designed a ruby SDK for interacting with our products in a universal manner.",
       "Batch repaired millions of records for hot fixes and production issues.",
-      "Designed several tools for bulk processing of customer assets. See less"
+      "Designed several tools for bulk processing of customer assets."
     ]
   },
   {
