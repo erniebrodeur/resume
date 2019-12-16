@@ -16,7 +16,7 @@ GEM
       eventmachine (>= 0.12.9)
       http_parser.rb (~> 0.6.0)
     eventmachine (1.2.7)
-    excon (0.67.0)
+    excon (0.71.0)
     ffi (1.11.1)
     formatador (0.2.5)
     gli (2.19.0)
